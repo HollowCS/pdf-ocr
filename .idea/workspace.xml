@@ -13,6 +13,8 @@
       <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/check_paddle.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/get_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services/extract_pdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/extract_pdf.py" afterDir="false" />
     </list>
@@ -82,7 +84,7 @@
       <workItem from="1765091173873" duration="7735000" />
       <workItem from="2710604882305" duration="42000" />
       <workItem from="1765573903353" duration="89000" />
-      <workItem from="1765692515990" duration="691000" />
+      <workItem from="1765692515990" duration="1713000" />
     </task>
     <servers />
   </component>

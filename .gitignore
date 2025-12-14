@@ -6,4 +6,6 @@ all_text.json
 parsed_fields.json
 extracted_content.json
 acord_130_extracted_fields.json
+docker
+*.pyc
 
